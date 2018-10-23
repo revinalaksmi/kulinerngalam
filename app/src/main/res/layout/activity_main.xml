@@ -108,7 +108,7 @@
         android:id="@+id/chk_remember"
         android:textStyle="bold"
         android:textColor="@color/colorWhite"
-        android:backgroud="@color/colorPrimaryDark"
+        android:background="@color/colorPrimaryDark"
         android:layout_below="@+id/blank_bottom"/>
 
 </RelativeLayout>
